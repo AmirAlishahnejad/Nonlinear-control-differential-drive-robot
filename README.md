@@ -4,6 +4,18 @@ This repository contains a MATLAB simulation project for nonlinear trajectory tr
 
 The project was developed as a reproduction-oriented nonlinear control study and includes implementations of feedback linearization, backstepping-based control, fuzzy sliding-mode control, and an adaptive sliding-mode variant.
 
+
+## Demo
+
+<p align="center">
+  <img src="assets/Nonlinear-control.gif"
+       alt="Differential-drive robot trajectory-tracking animation"
+       width="700">
+</p>
+
+The animation shows the differential-drive robot tracking a circular reference trajectory during the MATLAB simulation.
+
+
 ## Project Overview
 
 The simulated robot is a differential-drive mobile robot with two independently actuated wheels. Its kinematic and dynamic equations are implemented directly in MATLAB, and the robot is required to track a circular reference trajectory.
