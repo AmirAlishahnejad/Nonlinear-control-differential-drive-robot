@@ -240,6 +240,3 @@ Nonlinear control, mobile robotics, reinforcement learning, and autonomous robot
 
 When referring to this repository in academic or technical work, please cite the repository URL and the author name.
 
-## License
-
-No license has been selected yet. Unless a license file is added, all rights remain reserved by the author.
