@@ -240,3 +240,6 @@ Nonlinear control, mobile robotics, reinforcement learning, and autonomous robot
 
 When referring to this repository in academic or technical work, please cite the repository URL and the author name.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
